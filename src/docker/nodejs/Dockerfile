@@ -1,4 +1,4 @@
-FROM node:12
+FROM node:8
 
 # 앱 디렉터리 생성
 WORKDIR /usr/src/app
@@ -12,4 +12,4 @@ RUN npm install
 COPY . .
 
 EXPOSE 8080
-CMD [ "node", "app.js" ]
+ENTRYPOINT ["node", "app.js"]
