@@ -21,3 +21,4 @@
 ## Presentation Slides
 
 - [2022-05-07(토) : OT](https://www.slideshare.net/secret/3ku1pPr3IfBMNL)
+- [2022-05-21(토) : 서버 입문](https://www.slideshare.net/secret/xNCNCSSWpKnSk8)
